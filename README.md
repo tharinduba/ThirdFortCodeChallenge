@@ -313,4 +313,4 @@ Including swagger as a API documentation and that would be easy of UI UX team
 
 * Authentication
 
-Using OAuth 2.0 autentication code grant type can be restrict users when access to the notes  
+Using JWT authentication can be restrict users when access to the notes  
